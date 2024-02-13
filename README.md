@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO!!
+I'm Kamiyama Koki. 
+
 
 <p style="align="left" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoukiFOL">
@@ -7,6 +9,8 @@
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=KoukiFOL">
 </p>
+
+
 <!--
 **KoukiFOL/KoukiFOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
