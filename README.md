@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<p style="align:flex;">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoukiFOL)
-</p>
-
-<p style="align:flex;">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoukiFOL)
+<p style="align="left" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoukiFOL">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoukiFOL)">
 </p>
 <!--
 **KoukiFOL/KoukiFOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
