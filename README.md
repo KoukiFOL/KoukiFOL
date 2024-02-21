@@ -1,6 +1,6 @@
-### HELLO!!
-I'm Kamiyama Koki. 
-
+### KAMIYAMA Koki
+Learning programing.<br>
+PHP Ruby javascript Python C C++ Java 
 
 <p style="align="left" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoukiFOL">
