@@ -12,6 +12,20 @@ PHP Ruby javascript Python C C++ Java
 
 
 <!--
+###Web<br>
+<p>Front</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react)]
+<p>Back</p><br>
+[![My Skills](https://skillicons.dev/icons?i=php,js,nodejs,ruby,rails)]
+###GAME<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,unity)]
+###Others<br>
+[![My Skills](https://skillicons.dev/icons?i=php,js,nodejs,ruby,rails)]
+
+-->
+
+
+<!--
 **KoukiFOL/KoukiFOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
