@@ -14,10 +14,10 @@ University Student
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,php,ruby,sqlite,html,css&theme=light)
 
 ### Web Frameworks<br>
-![My Skills](https://skillicons.dev/icons?i=nodejs,rails&theme=light)
+![My Skills](https://skillicons.dev/icons?i=rails&theme=light)
 
 ### Other Frameworks
-![My Skills](https://skillicons.dev/icons?i=arduino,flutter,unity,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nodejs,arduino,flutter,unity,&theme=light)
 
 ### Development Tools
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode&theme=light)
